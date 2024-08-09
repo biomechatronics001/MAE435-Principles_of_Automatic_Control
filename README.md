@@ -19,7 +19,7 @@ Teaching Assistants
 
 |                 |            Week           |                           Monday                          |                       Wednesday                     |            Optional   Text Read          |
 |:---------------:|:-------------------------:|:---------------------------------------------------------:|:---------------------------------------------------:|:----------------------------------------:|
-|     Modeling    |       1. Aug. 19, 21      |                      Course   Overview                    |     Basics   of Laplace Transfer and PID Control    |              MCE:   1.1 – 1.5            |
+|     Modeling    |       1. Aug. 19, 21      |                      [Course   Overview](https://www.dropbox.com/scl/fi/jivqb0uhwkvg5sgow0bt1/Lecture-1-Course-Overview-Fall-2024.pdf?rlkey=e351ay0kgzml0p2iict313a5r&dl=0)                    |     Basics   of Laplace Transfer and PID Control    |              MCE:   1.1 – 1.5            |
 |                 |       2. Aug. 26, 28      |                      Project:   MATLAB                    |           Project:   Simulink Introduction          |              SD:   2.2 – 2.3             |
 |                 |        3. Sep. 2, 4       |                  No   Classes (Labor Day)                 |        Laplace   Transform & Transfer Function      |      MCE:   2.1, 2.2 & SD: 2.2 – 2.3     |
 |                 |        4. Sep. 9, 11      |                Mechanical   System Modeling               |       Project:   Simulink Introduction Part II      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
