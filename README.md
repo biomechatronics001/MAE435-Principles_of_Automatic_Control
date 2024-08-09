@@ -37,7 +37,7 @@ Teaching Assistants
 |                 |         16. Dec. 2        |     Project:   Control of Robot II (Last Day of Class)    |                                                     |                     -                    |
 |                 |         17. Dec. 9        |                        Final   Exam                       |                                                     |                     -                    |
 
-[comment]: <> ![MAE435_Schedule](https://github.com/user-attachments/assets/4ae29ddf-8e0b-494e-a709-3e35f79d7d8c)
+[comment]: <> (![MAE435_Schedule](https://github.com/user-attachments/assets/4ae29ddf-8e0b-494e-a709-3e35f79d7d8c))
 
 ## Support Material
 
