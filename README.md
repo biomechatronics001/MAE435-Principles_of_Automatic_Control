@@ -6,6 +6,7 @@
 * Schedule: Mon. & Wed., 3:00-4:15 p.m.
 * Location: 1007 Engineering Building I, Centennial Campus.
 * Office Hours: Mon. & Wed., 11:00-12:00, Room 3282 Engineering Building III, Centennial Campus.
+* [Syllabus](https://www.dropbox.com/scl/fi/pltajoibr86bn71zab0ji/MAE-435-Syllabus-Fall-2024.pdf?rlkey=s23ix5brw4lgqqallbpyvhq7f&dl=0)
 
 ## Instructors
 
