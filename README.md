@@ -41,7 +41,7 @@ Teaching Assistants
 ## Lecture Slides
 
 ### Lecture 1: Overview
-[PDF](https://www.dropbox.com/scl/fi/wovkvwgidfzk44qimz0ao/Lecture-1-Course-Overview-Fall-2024.pdf?rlkey=vz7a1g5ahtoqflyi4bp28bjgz&dl=0) | [PPT](https://www.dropbox.com/scl/fi/lx9hosf8t9m6rtbd7hvdt/Lecture-1-Course-Overview-Fall-2024.pptx?rlkey=2l9ls3rcbn9tdx6bzl30vkcnn&dl=0)
+[PDF](https://www.dropbox.com/scl/fi/wovkvwgidfzk44qimz0ao/Lecture-1-Course-Overview-Fall-2024.pdf?rlkey=vz7a1g5ahtoqflyi4bp28bjgz&dl=0) | [PPT](https://www.dropbox.com/scl/fi/qiyr5idec1be2542a5wl6/Lecture-1-Course-Overview-Fall-2024.pptx?rlkey=4skbbjv84y732bsgiua3q16rh&dl=0)
 
 ### Lecture 2: Basics of Laplace Transfer and PID Control
 
