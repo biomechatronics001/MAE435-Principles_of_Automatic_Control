@@ -20,7 +20,7 @@ Teaching Assistants
 
 |    Section      |            Week           |                           Monday                          |                       Wednesday                     |            Optional   Text Read          |
 |:---------------:|:-------------------------:|:---------------------------------------------------------:|:---------------------------------------------------:|:----------------------------------------:|
-|     Modeling    |       1. Aug. 19, 21      |                      [Course   Overview](#lecture-1-overview)                    |     Basics   of Laplace Transfer and PID Control   |              MCE:   1.1 – 1.5            |
+|     Modeling    |       1. Aug. 19, 21      |                      [Course   Overview](#lecture-1-overview)                    |     [Basics of Automatic Control (Laplace Transfer and PID Control)](#lecture-2-basics-of-laplace-transfer-and-pid-control)   |              MCE:   1.1 – 1.5            |
 |                 |       2. Aug. 26, 28      |                      Project:   MATLAB                    |           Project:   Simulink Introduction          |              SD:   2.2 – 2.3             |
 |                 |        3. Sep. 2, 4       |                  No   Classes (Labor Day)                 |       Laplace   Transform & Transfer Function      |      MCE:   2.1, 2.2 & SD: 2.2 – 2.3     |
 |                 |        4. Sep. 9, 11      |                Mechanical   System Modeling               |       Project:   Simulink Introduction Part II      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
@@ -41,7 +41,7 @@ Teaching Assistants
 ## Lecture Slides
 
 ### Lecture 1: Overview
-[PDF](https://www.dropbox.com/scl/fi/wovkvwgidfzk44qimz0ao/Lecture-1-Course-Overview-Fall-2024.pdf?rlkey=vz7a1g5ahtoqflyi4bp28bjgz&dl=0) | [PPT](https://www.dropbox.com/scl/fi/qiyr5idec1be2542a5wl6/Lecture-1-Course-Overview-Fall-2024.pptx?rlkey=4skbbjv84y732bsgiua3q16rh&dl=0)
+[PDF](https://www.dropbox.com/scl/fi/wovkvwgidfzk44qimz0ao/Lecture-1-Course-Overview.pdf?rlkey=vz7a1g5ahtoqflyi4bp28bjgz&dl=0) | [PPT](https://www.dropbox.com/scl/fi/qiyr5idec1be2542a5wl6/Lecture-1-Course-Overview.pptx?rlkey=4skbbjv84y732bsgiua3q16rh&dl=0)
 
 ### Lecture 2: Basics of Laplace Transfer and PID Control
 
