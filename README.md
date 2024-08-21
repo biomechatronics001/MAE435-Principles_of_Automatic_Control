@@ -45,6 +45,8 @@ Teaching Assistants
 
 ### Lecture 2: Basics of Laplace Transfer and PID Control
 
+[PDF](https://www.dropbox.com/scl/fi/kom93ujrkuhh7opfwotot/Lecture-2-Basics-of-Laplace-Transfrom-and-PID-Control.pdf?rlkey=4pnzfqtghi0u42lg6mfg23xc6&dl=0) | [PPT](https://www.dropbox.com/scl/fi/9i5pwqnbtv4ctz98rx77n/Lecture-2-Basics-of-Laplace-Transfrom-and-PID-Control.pptx?rlkey=016r0hxkk0cms2kx4bqhnlnea&dl=0)
+
 <br>
 
 ## Supporting Material
