@@ -49,7 +49,13 @@ Teaching Assistants
 
 <br>
 
-## Supporting Material
+## Supplementary Materials
+
+* Basics of complex number calculation: [PDF](https://www.dropbox.com/scl/fi/037xcopyqz5wamdi8zltd/Basics-of-Complex-Number-Calculation.pdf?rlkey=qz8m2nqi72z4pwwmged7r0amb&dl=0) | [PPT](https://www.dropbox.com/scl/fi/hv6tbskg0hr9efah07u5y/Basics-of-Complex-Number-Calculation.pptx?rlkey=cqq38owcuz39cay3jt6fucb3p&dl=0)
+
+* Solving ordinary differential equations (ODEs) for homogeneous and particular solutions: [PDF](https://www.dropbox.com/scl/fi/vrsy3b4wiltn49tuefqfo/Solving-Ordinary-Differential-Equations.pdf?rlkey=ik432iug91n5lufja75enknx2&dl=0)
+
+## Resources
 
 ### Books
 * Katsuhiko Ogata, Modern Control Engineering (MCE), any recent edition (recommend the 5th version), Pearson Prentice-Hall, Upper Saddle River, NJ.
