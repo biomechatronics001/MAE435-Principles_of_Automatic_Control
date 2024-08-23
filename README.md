@@ -40,12 +40,12 @@ Teaching Assistants
 
 ## Lecture Slides
 
-### Lecture 1: Course Overview (updated on 08/23/2024)
-[PDF](https://www.dropbox.com/scl/fi/wovkvwgidfzk44qimz0ao/Lecture-1-Course-Overview.pdf?rlkey=vz7a1g5ahtoqflyi4bp28bjgz&dl=0) | [PPT](https://www.dropbox.com/scl/fi/2lm4z8cqi8326sa9viuzh/Lecture-1-Course-Overview.pptx?rlkey=eso64qwr3v7xxh7irkywj2c5d&dl=0)
+### Lecture 1: Course Overview
+[PDF](https://www.dropbox.com/scl/fi/wovkvwgidfzk44qimz0ao/Lecture-1-Course-Overview.pdf?rlkey=vz7a1g5ahtoqflyi4bp28bjgz&dl=0) | [PPT](https://www.dropbox.com/scl/fi/2lm4z8cqi8326sa9viuzh/Lecture-1-Course-Overview.pptx?rlkey=eso64qwr3v7xxh7irkywj2c5d&dl=0) (updated on 08/23/2024)
 
-### Lecture 2: Closed-loop Control (updated on 08/23/2024)
+### Lecture 2: Closed-loop Control 
 
-[PDF](https://www.dropbox.com/scl/fi/e6lf6tbjkw8wil00zp9uf/Lecture-2-Closed-loop-Control.pdf?rlkey=co5usxwb3n2kq612tipmajz7g&dl=0) | [PPT](https://www.dropbox.com/scl/fi/gv4boo1670bkrxeh0dsv8/Lecture-2-Closed-loop-Control.pptx?rlkey=wxzq9wntitswsqv5xzkfhq7x1&dl=0)
+[PDF](https://www.dropbox.com/scl/fi/e6lf6tbjkw8wil00zp9uf/Lecture-2-Closed-loop-Control.pdf?rlkey=co5usxwb3n2kq612tipmajz7g&dl=0) | [PPT](https://www.dropbox.com/scl/fi/gv4boo1670bkrxeh0dsv8/Lecture-2-Closed-loop-Control.pptx?rlkey=wxzq9wntitswsqv5xzkfhq7x1&dl=0) (updated on 08/23/2024)
 
 <br>
 
