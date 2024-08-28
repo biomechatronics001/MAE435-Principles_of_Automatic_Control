@@ -21,7 +21,7 @@ Teaching Assistants
 |    Section      |            Week           |                           Monday                          |                       Wednesday                     |            Optional   Text Read          |
 |:---------------:|:-------------------------:|:---------------------------------------------------------:|:---------------------------------------------------:|:----------------------------------------:|
 |     Modeling    |       1. Aug. 19, 21      |                      [Course   Overview](#lecture-1-course-overview)                    |     [Closed-loop Control](#lecture-2-closed-loop-control)   |              MCE:   1.1 – 1.5            |
-|                 |       2. Aug. 26, 28      |                      [Introduction to PID Control and Laplace Transform](#lecture-3-laplace-transform-and-pid-control)                    |           Laplace Transform and Transfer Function          |              SD:   2.2 – 2.3             |
+|                 |       2. Aug. 26, 28      |                      [Introduction to PID Control and Laplace Transform](#lecture-3-laplace-transform-and-pid-control)                    |           [Laplace Transform and Transfer Function](#lecture-4-laplace-transform-and-transfer-function)          |              SD:   2.2 – 2.3             |
 |                 |        3. Sep. 2, 4       |                  No   Classes (Labor Day)                 |       Laplace   Transform pairs and Inverse Laplace Transform      |      MCE:   2.1, 2.2 & SD: 2.2 – 2.3     |
 |                 |        4. Sep. 9, 11      |                Mechanical System Modeling               |       Electromechanical Systems Modelling      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
 |                 |       5. Sep. 16, 18      |         Project:   MATLAB             |       Control Block Diagram Signal Flow Graph     |         MCE:   2.3 & SD: 8.1 – 8.3       |
@@ -49,13 +49,17 @@ Teaching Assistants
 
 ### Lecture 3: Laplace Transform and PID Control
 
-[PDF](https://www.dropbox.com/scl/fi/kd1klqdel4jevlescwnqf/Lecture-3-Laplace-Transform-and-PID-Control.pdf?rlkey=34j2hf05t0g8qo7j740bibi16&dl=0) | [PPT](https://www.dropbox.com/scl/fi/9i5pwqnbtv4ctz98rx77n/Lecture-3-Laplace-Transform-and-PID-Control.pptx?rlkey=016r0hxkk0cms2kx4bqhnlnea&dl=0)
+[PDF](https://www.dropbox.com/scl/fi/kd1klqdel4jevlescwnqf/Lecture-3-Laplace-Transform-and-PID-Control.pdf?rlkey=34j2hf05t0g8qo7j740bibi16&dl=0) | [PPT](https://www.dropbox.com/scl/fi/9i5pwqnbtv4ctz98rx77n/Lecture-3-Laplace-Transform-and-PID-Control.pptx?rlkey=016r0hxkk0cms2kx4bqhnlnea&dl=0) (updated on 08/28/2024)
+
+### Lecture 4: Laplace Transform and Transfer Function
+
+[PDF](https://www.dropbox.com/scl/fi/ekh54uvee6rso10u64ail/Lecture-4-Laplace-Transform-and-Transfer-Function.pdf?rlkey=7scg1rb4uwiod13p8f21twix7&dl=0) | [PPT](https://www.dropbox.com/scl/fi/1qs98b3uxg4theqi65mg5/Lecture-4-Laplace-Transform-and-Transfer-Function.pptx?rlkey=2iwmu3dfihbqcigrgiahn2s7c&dl=0)
 
 <br>
 
 ## Supplementary Materials
 
-* Mathematics Foundations - Table of Calculus: [PDF](https://www.dropbox.com/scl/fi/kw7si6ec5uo1pjpg66kd8/Math-Foundations-Tables-of-calculus.pdf?rlkey=ekrjoc5pvcgcr2fot91zm3hnp&dl=0) | [PPT](https://www.dropbox.com/scl/fi/76ehrk8rfkocxdcbsyqn2/Math-Foundations-Tables-of-calculus.pptx?rlkey=t5gqnn4iob37zdakzkjyykee3&dl=0)
+* Math Foundations - Tables of  calculus， complex number, ODE: [PDF](https://www.dropbox.com/scl/fi/gkygsq1mhyw52tymibwe4/Math-Foundations-Tables-of-calculus-complex-number-ODE.pdf?rlkey=ygjmxdt3lcvxdgnutqk10fptn&dl=0) | [PPT](https://www.dropbox.com/scl/fi/76ehrk8rfkocxdcbsyqn2/Math-Foundations-Tables-of-calculus-complex-number-ODE.pptx?rlkey=t5gqnn4iob37zdakzkjyykee3&dl=0) (updated on 08/28/2024)
 
 ## Resources
 
