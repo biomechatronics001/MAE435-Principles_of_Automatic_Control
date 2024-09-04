@@ -22,7 +22,7 @@ Teaching Assistants
 |:---------------:|:-------------------------:|:---------------------------------------------------------:|:---------------------------------------------------:|:----------------------------------------:|
 |     Modeling    |       1. Aug. 19, 21      |                      [Course   Overview](#lecture-1-course-overview)                    |     [Closed-loop Control](#lecture-2-closed-loop-control)   |              MCE:   1.1 – 1.5            |
 |                 |       2. Aug. 26, 28      |                      [Introduction to PID Control and Laplace Transform](#lecture-3-laplace-transform-and-pid-control)                    |           [Laplace Transform and Transfer Function](#lecture-4-laplace-transform-and-transfer-function)          |              SD:   2.2 – 2.3             |
-|                 |        3. Sep. 2, 4       |                  No   Classes (Labor Day)                 |       Laplace   Transform pairs and Inverse Laplace Transform      |      MCE:   2.1, 2.2 & SD: 2.2 – 2.3     |
+|                 |        3. Sep. 2, 4       |                  No   Classes (Labor Day)                 |       [Laplace   Transform pairs and Inverse Laplace Transform](#lecture-5-laplace-transform-pairs-and-inverse-laplace-transform)      |      MCE:   2.1, 2.2 & SD: 2.2 – 2.3     |
 |                 |        4. Sep. 9, 11      |                Mechanical System Modeling               |       Electromechanical Systems Modelling      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
 |                 |       5. Sep. 16, 18      |         Project:   MATLAB             |       Control Block Diagram Signal Flow Graph     |         MCE:   2.3 & SD: 8.1 – 8.3       |
 |     Analysis    |       6. Sep. 23, 25      |          Project: Simulink Introduction Part I        |       Project: Simulink Introduction Part II     |      SD:   8.1 – 8.3 & MCE: 5.1 – 5.8    |
@@ -54,6 +54,10 @@ Teaching Assistants
 ### Lecture 4: Laplace Transform and Transfer Function
 
 [PDF](https://www.dropbox.com/scl/fi/ekh54uvee6rso10u64ail/Lecture-4-Laplace-Transform-and-Transfer-Function.pdf?rlkey=7scg1rb4uwiod13p8f21twix7&dl=0) | [PPT](https://www.dropbox.com/scl/fi/1qs98b3uxg4theqi65mg5/Lecture-4-Laplace-Transform-and-Transfer-Function.pptx?rlkey=2iwmu3dfihbqcigrgiahn2s7c&dl=0)
+
+### Lecture 5: Laplace Transform Pairs and Inverse Laplace Transform
+
+[PDF](https://www.dropbox.com/scl/fi/25goediymcnec3xz9kwsh/Lecture-5-Laplace-Transform-Pairs-and-Inverse-Laplace-Transform.pdf?rlkey=1iwt2uxx8sb3mwesi0dg1dgrb&dl=0) | [PPT](https://www.dropbox.com/scl/fi/z9givuxo4zv75ym0iuxue/Lecture-5-Laplace-Transform-Pairs-and-Inverse-Laplace-Transform.pptx?rlkey=3h14at91wj4k90khfv9rzxeqb&dl=0)
 
 <br>
 
