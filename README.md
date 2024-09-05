@@ -57,7 +57,7 @@ Teaching Assistants
 
 ### Lecture 5: Laplace Transform Pairs and Inverse Laplace Transform
 
-[PDF](https://www.dropbox.com/scl/fi/25goediymcnec3xz9kwsh/Lecture-5-Laplace-Transform-Pairs-and-Inverse-Laplace-Transform.pdf?rlkey=1iwt2uxx8sb3mwesi0dg1dgrb&dl=0) | [PPT](https://www.dropbox.com/scl/fi/z9givuxo4zv75ym0iuxue/Lecture-5-Laplace-Transform-Pairs-and-Inverse-Laplace-Transform.pptx?rlkey=3h14at91wj4k90khfv9rzxeqb&dl=0)
+[PDF](https://www.dropbox.com/scl/fi/25goediymcnec3xz9kwsh/Lecture-5-Laplace-Transform-Pairs-and-Inverse-Laplace-Transform.pdf?rlkey=1iwt2uxx8sb3mwesi0dg1dgrb&dl=0) | [PPT](https://www.dropbox.com/scl/fi/z9givuxo4zv75ym0iuxue/Lecture-5-Laplace-Transform-Pairs-and-Inverse-Laplace-Transform.pptx?rlkey=3h14at91wj4k90khfv9rzxeqb&dl=0) (updated on 09/04/2024 after class)
 
 <br>
 
