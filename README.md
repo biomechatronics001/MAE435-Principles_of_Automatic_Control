@@ -23,7 +23,7 @@ Teaching Assistants
 |     Modeling    |       1. Aug. 19, 21      |                      [Course   Overview](#lecture-1-course-overview)                    |     [Closed-loop Control](#lecture-2-closed-loop-control)   |              MCE:   1.1 – 1.5            |
 |                 |       2. Aug. 26, 28      |                      [Introduction to PID Control and Laplace Transform](#lecture-3-laplace-transform-and-pid-control)                    |           [Laplace Transform and Transfer Function](#lecture-4-laplace-transform-and-transfer-function)          |              SD:   2.2 – 2.3             |
 |                 |        3. Sep. 2, 4       |                  No   Classes (Labor Day)                 |       [Laplace   Transform pairs and Inverse Laplace Transform](#lecture-5-laplace-transform-pairs-and-inverse-laplace-transform)      |      MCE:   2.1, 2.2 & SD: 2.2 – 2.3     |
-|                 |        4. Sep. 9, 11      |                Mechanical System Modeling               |       Electromechanical Systems Modelling      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
+|                 |        4. Sep. 9, 11      |                [Mechanical System Modeling](#lecture-6-mechanical-system-modeling)               |       Electromechanical Systems Modelling      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
 |                 |       5. Sep. 16, 18      |         Project:   MATLAB             |       Control Block Diagram Signal Flow Graph     |         MCE:   2.3 & SD: 8.1 – 8.3       |
 |     Analysis    |       6. Sep. 23, 25      |          Project: Simulink Introduction Part I        |       Project: Simulink Introduction Part II     |      SD:   8.1 – 8.3 & MCE: 5.1 – 5.8    |
 |                 |     7. Sep. 30, Oct. 2    |                      Midterm   Review                     |               Time-Domain Analysis (1st order system)             |              MCE:   5.1 – 5.8            |
@@ -59,11 +59,15 @@ Teaching Assistants
 
 [PDF](https://www.dropbox.com/scl/fi/25goediymcnec3xz9kwsh/Lecture-5-Laplace-Transform-Pairs-and-Inverse-Laplace-Transform.pdf?rlkey=1iwt2uxx8sb3mwesi0dg1dgrb&dl=0) | [PPT](https://www.dropbox.com/scl/fi/z9givuxo4zv75ym0iuxue/Lecture-5-Laplace-Transform-Pairs-and-Inverse-Laplace-Transform.pptx?rlkey=3h14at91wj4k90khfv9rzxeqb&dl=0) (updated on 09/04/2024 after class)
 
+### Lecture 6: Mechanical System Modeling
+
+[PDF](https://www.dropbox.com/scl/fi/tf1oqfojvexrag0aewnum/Lecture-6-Mechanical-System-Modeling.pdf?rlkey=fkog44evjd9gxglajvgu45nmo&dl=0) | [PPT](https://www.dropbox.com/scl/fi/8p6gdt41v70vd8i4q8fdu/Lecture-6-Mechanical-System-Modeling.pptx?rlkey=nrq0a6hsj75yx67a7ffbm3fu3&dl=0)
+
 <br>
 
 ## Supplementary Materials
 
-* Math Foundations - Tables of  calculus， complex number, ODE: [PDF](https://www.dropbox.com/scl/fi/gkygsq1mhyw52tymibwe4/Math-Foundations-Tables-of-calculus-complex-number-ODE.pdf?rlkey=ygjmxdt3lcvxdgnutqk10fptn&dl=0) | [PPT](https://www.dropbox.com/scl/fi/76ehrk8rfkocxdcbsyqn2/Math-Foundations-Tables-of-calculus-complex-number-ODE.pptx?rlkey=t5gqnn4iob37zdakzkjyykee3&dl=0) (updated on 08/28/2024)
+* Math Foundations - Tables of calculus, complex number, ODE: [PDF](https://www.dropbox.com/scl/fi/gkygsq1mhyw52tymibwe4/Math-Foundations-Tables-of-calculus-complex-number-ODE.pdf?rlkey=ygjmxdt3lcvxdgnutqk10fptn&dl=0) | [PPT](https://www.dropbox.com/scl/fi/76ehrk8rfkocxdcbsyqn2/Math-Foundations-Tables-of-calculus-complex-number-ODE.pptx?rlkey=t5gqnn4iob37zdakzkjyykee3&dl=0) (updated on 08/28/2024)
 
 ## Resources
 
