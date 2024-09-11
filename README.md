@@ -23,7 +23,7 @@ Teaching Assistants
 |     Modeling    |       1. Aug. 19, 21      |                      [Course   Overview](#lecture-1-course-overview)                    |     [Closed-loop Control](#lecture-2-closed-loop-control)   |              MCE:   1.1 – 1.5            |
 |                 |       2. Aug. 26, 28      |                      [Introduction to PID Control and Laplace Transform](#lecture-3-laplace-transform-and-pid-control)                    |           [Laplace Transform and Transfer Function](#lecture-4-laplace-transform-and-transfer-function)          |              SD:   2.2 – 2.3             |
 |                 |        3. Sep. 2, 4       |                  No   Classes (Labor Day)                 |       [Laplace   Transform pairs and Inverse Laplace Transform](#lecture-5-laplace-transform-pairs-and-inverse-laplace-transform)      |      MCE:   2.1, 2.2 & SD: 2.2 – 2.3     |
-|                 |        4. Sep. 9, 11      |                [Mechanical System Modeling](#lecture-6-mechanical-system-modeling)               |       Electromechanical Systems Modelling      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
+|                 |        4. Sep. 9, 11      |                [Mechanical System Modeling](#lecture-6-mechanical-system-modeling)               |       [Electromechanical Systems Modelling](#lecture-7-electromechanical-system-modeling)      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
 |                 |       5. Sep. 16, 18      |         Project:   MATLAB             |       Control Block Diagram Signal Flow Graph     |         MCE:   2.3 & SD: 8.1 – 8.3       |
 |     Analysis    |       6. Sep. 23, 25      |          Project: Simulink Introduction Part I        |       Project: Simulink Introduction Part II     |      SD:   8.1 – 8.3 & MCE: 5.1 – 5.8    |
 |                 |     7. Sep. 30, Oct. 2    |                      Midterm   Review                     |               Time-Domain Analysis (1st order system)             |              MCE:   5.1 – 5.8            |
@@ -33,7 +33,7 @@ Teaching Assistants
 |                 |       11. Oct. 28, 30     |            Midterm Recap and Stability Analysis          |          Bode Diagram Concept        |              MCE:   7.7 -7. 8            |
 |          |        12. Nov. 4, 6      |             Bode   Diagram: Gain and Phase Margin            |              Bode Diagram: Stability Criterion            |             MCE:   7.11 – 7.13           |
 |                 |       13. Nov. 11, 13     |      Project:   Bode Diagram: Design and Control    |              Project: Robot System Simulation Implementation             |             MCE:   7.11 – 7.13           |
-|                 |       14. Nov. 18, 20     |               Lead Compensation Control             |                  Lag Compensation Control                |                     -                    |
+|     Control            |       14. Nov. 18, 20     |               Lead Compensation Control             |                  Lag Compensation Control                |                     -                    |
 |                 |       15. Nov. 25, 27     |                Project:   Control of Robot              |            No   Classes (Thanksgiving Day)          |                     -                    |
 |                 |         16. Dec. 2 , 4      |     Final exam Review    |                                                     |                     -                    |
 |                 |         17. Dec. 9, 11       |                                               |                   Final Exam                                  |                     -                    |
@@ -61,7 +61,11 @@ Teaching Assistants
 
 ### Lecture 6: Mechanical System Modeling
 
-[PDF](https://www.dropbox.com/scl/fi/tf1oqfojvexrag0aewnum/Lecture-6-Mechanical-System-Modeling.pdf?rlkey=fkog44evjd9gxglajvgu45nmo&dl=0) | [PPT](https://www.dropbox.com/scl/fi/8p6gdt41v70vd8i4q8fdu/Lecture-6-Mechanical-System-Modeling.pptx?rlkey=nrq0a6hsj75yx67a7ffbm3fu3&dl=0)
+[PDF](https://www.dropbox.com/scl/fi/tf1oqfojvexrag0aewnum/Lecture-6-Mechanical-System-Modeling.pdf?rlkey=fkog44evjd9gxglajvgu45nmo&dl=0) | [PPT](https://www.dropbox.com/scl/fi/8p6gdt41v70vd8i4q8fdu/Lecture-6-Mechanical-System-Modeling.pptx?rlkey=nrq0a6hsj75yx67a7ffbm3fu3&dl=0) (updated on 09/11/2024)
+
+### Lecture 7: Electromechanical System Modeling
+
+[PDF](https://www.dropbox.com/scl/fi/4xby05l1lj1jvc0yf63g0/Lecture-7-Electromechanical-System-Modeling.pdf?rlkey=jtnjnvif3j25y6nqpzg8h3wno&dl=0) | [PPT](https://www.dropbox.com/scl/fi/k4tkeb182nwu7mbzfanhn/Lecture-7-Electromechanical-System-Modeling.pptx?rlkey=xa3dwv38f5kho267kwj0tg5in&dl=0)
 
 <br>
 
