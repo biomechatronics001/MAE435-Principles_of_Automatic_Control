@@ -67,6 +67,10 @@ Teaching Assistants
 
 [PDF](https://www.dropbox.com/scl/fi/4xby05l1lj1jvc0yf63g0/Lecture-7-Electromechanical-System-Modeling.pdf?rlkey=jtnjnvif3j25y6nqpzg8h3wno&dl=0) | [PPT](https://www.dropbox.com/scl/fi/k4tkeb182nwu7mbzfanhn/Lecture-7-Electromechanical-System-Modeling.pptx?rlkey=xa3dwv38f5kho267kwj0tg5in&dl=0)
 
+### Lecture 8: Project - Introduction to MATLAB
+
+[PDF](https://www.dropbox.com/scl/fi/42fs0ogumnzbnhqne23zn/Lecture-8-Project-Introduction-to-Matlab.pdf?rlkey=gah24zh8zskwrwbt1mq7y0e0q&dl=0) | [PPT](https://www.dropbox.com/scl/fi/d9wxgbdinw3gm8r3z8lh3/Lecture-8-Project-Introduction-to-Matlab.pptx?rlkey=sqb6a2mli8ezeioctezue6j8k&dl=0)
+
 <br>
 
 ## Supplementary Materials
