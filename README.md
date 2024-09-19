@@ -25,7 +25,7 @@ Teaching Assistants
 |                 |        3. Sep. 2, 4       |                  No   Classes (Labor Day)                 |       [Laplace   Transform pairs and Inverse Laplace Transform](#lecture-5-laplace-transform-pairs-and-inverse-laplace-transform)      |      MCE:   2.1, 2.2 & SD: 2.2 – 2.3     |
 |                 |        4. Sep. 9, 11      |                [Mechanical System Modeling](#lecture-6-mechanical-system-modeling)               |       [Electromechanical Systems Modelling](#lecture-7-electromechanical-system-modeling)      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
 |                 |       5. Sep. 16, 18      |         [Project:   MATLAB](#lecture-8-project---introduction-to-matlab)             |       [Control Block Diagram Signal Flow Graph](#lecture-9-Control-Block-Diagram)     |         MCE:   2.3 & SD: 8.1 – 8.3       |
-|     Analysis    |       6. Sep. 23, 25      |          Project: Simulink Introduction Part I        |       Project: Simulink Introduction Part II     |      SD:   8.1 – 8.3 & MCE: 5.1 – 5.8    |
+|     Analysis    |       6. Sep. 23, 25      |          [Project: Simulink Introduction Part I](#Lecture-10-Project-Simulink-Introduction-Part-I)        |       Project: Simulink Introduction Part II     |      SD:   8.1 – 8.3 & MCE: 5.1 – 5.8    |
 |                 |     7. Sep. 30, Oct. 2    |                      Midterm   Review                     |               Time-Domain Analysis (1st order system)             |              MCE:   5.1 – 5.8            |
 |                 |        8. Oct. 7, 9       |             Time-Domin Analysis (2nd order system)           |          Project: Robot Modeling        |              MCE:   5.1 – 5.8            |
 |                 |       9. Oct. 14, 16      |                  Fall Break (no class)                |                        Midterm                      |        MCE:   7.1 & MCE: 7.2 – 7.6       |
@@ -77,7 +77,7 @@ Teaching Assistants
 
 ### Lecture 10: Project-Simulink Introduction Part I
 
-[PDF]( ) | [PPT](https://www.dropbox.com/scl/fi/y8j8gzuwirttojt33qqeh/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pptx?rlkey=v2vv4moxoqvqrtiptw17e8nmd&dl=0)
+[PDF](https://www.dropbox.com/scl/fi/dyx7wue3wimjaro483did/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pdf?rlkey=8psy1fscnms73wd013tnlvoen&dl=0) | [PPT](https://www.dropbox.com/scl/fi/y8j8gzuwirttojt33qqeh/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pptx?rlkey=v2vv4moxoqvqrtiptw17e8nmd&dl=0)
 
 <br>
 
