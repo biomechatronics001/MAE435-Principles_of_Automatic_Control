@@ -24,7 +24,7 @@ Teaching Assistants
 |                 |       2. Aug. 26, 28      |                      [Introduction to PID Control and Laplace Transform](#lecture-3-laplace-transform-and-pid-control)                    |           [Laplace Transform and Transfer Function](#lecture-4-laplace-transform-and-transfer-function)          |              SD:   2.2 – 2.3             |
 |                 |        3. Sep. 2, 4       |                  No   Classes (Labor Day)                 |       [Laplace   Transform pairs and Inverse Laplace Transform](#lecture-5-laplace-transform-pairs-and-inverse-laplace-transform)      |      MCE:   2.1, 2.2 & SD: 2.2 – 2.3     |
 |                 |        4. Sep. 9, 11      |                [Mechanical System Modeling](#lecture-6-mechanical-system-modeling)               |       [Electromechanical Systems Modelling](#lecture-7-electromechanical-system-modeling)      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
-|                 |       5. Sep. 16, 18      |         [Project:   MATLAB](#lecture-8-project---introduction-to-matlab)             |       Control Block Diagram Signal Flow Graph     |         MCE:   2.3 & SD: 8.1 – 8.3       |
+|                 |       5. Sep. 16, 18      |         [Project:   MATLAB](#lecture-8-project---introduction-to-matlab)             |       [Control Block Diagram Signal Flow Graph](#lecture-9-Control-Block-Diagram)     |         MCE:   2.3 & SD: 8.1 – 8.3       |
 |     Analysis    |       6. Sep. 23, 25      |          Project: Simulink Introduction Part I        |       Project: Simulink Introduction Part II     |      SD:   8.1 – 8.3 & MCE: 5.1 – 5.8    |
 |                 |     7. Sep. 30, Oct. 2    |                      Midterm   Review                     |               Time-Domain Analysis (1st order system)             |              MCE:   5.1 – 5.8            |
 |                 |        8. Oct. 7, 9       |             Time-Domin Analysis (2nd order system)           |          Project: Robot Modeling        |              MCE:   5.1 – 5.8            |
@@ -70,6 +70,10 @@ Teaching Assistants
 ### Lecture 8: Project - Introduction to MATLAB
 
 [PDF](https://www.dropbox.com/scl/fi/42fs0ogumnzbnhqne23zn/Lecture-8-Project-Introduction-to-Matlab.pdf?rlkey=gah24zh8zskwrwbt1mq7y0e0q&dl=0) | [PPT](https://www.dropbox.com/scl/fi/d9wxgbdinw3gm8r3z8lh3/Lecture-8-Project-Introduction-to-Matlab.pptx?rlkey=sqb6a2mli8ezeioctezue6j8k&dl=0)
+
+### Lecture 9: Control Block Diagram
+
+[PDF](https://www.dropbox.com/scl/fi/pgztwc3xocjfo3kt47a77/Lecture-9-Control-Block-Diagram.pdf?rlkey=2g71cvxhhe5u6uyx6jv43119l&dl=0) | [PPT](https://www.dropbox.com/scl/fi/r6hi5xcnmbr5gy23c9mx3/Lecture-9-Control-Block-Diagram.pptx?rlkey=uaegejj5kkn8a6s0ogs58850f&dl=0)
 
 <br>
 
