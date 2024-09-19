@@ -75,6 +75,10 @@ Teaching Assistants
 
 [PDF](https://www.dropbox.com/scl/fi/pgztwc3xocjfo3kt47a77/Lecture-9-Control-Block-Diagram.pdf?rlkey=2g71cvxhhe5u6uyx6jv43119l&dl=0) | [PPT](https://www.dropbox.com/scl/fi/r6hi5xcnmbr5gy23c9mx3/Lecture-9-Control-Block-Diagram.pptx?rlkey=uaegejj5kkn8a6s0ogs58850f&dl=0)
 
+### Lecture 10: Project-Simulink Introduction Part I
+
+[PDF]( ) | [PPT](https://www.dropbox.com/scl/fi/y8j8gzuwirttojt33qqeh/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pptx?rlkey=v2vv4moxoqvqrtiptw17e8nmd&dl=0)
+
 <br>
 
 ## Supplementary Materials
