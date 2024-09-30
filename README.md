@@ -20,13 +20,13 @@ Teaching Assistants
 
 |    Section      |            Week           |                           Monday                          |                       Wednesday                     |            Optional   Text Read          |
 |:---------------:|:-------------------------:|:---------------------------------------------------------:|:---------------------------------------------------:|:----------------------------------------:|
-|     Modeling    |       1. Aug. 19, 21      |                      [Course   Overview](#lecture-1-course-overview)                    |     [Closed-loop Control](#lecture-2-closed-loop-control)   |              MCE:   1.1 – 1.5            |
-|                 |       2. Aug. 26, 28      |                      [Introduction to PID Control and Laplace Transform](#lecture-3-laplace-transform-and-pid-control)                    |           [Laplace Transform and Transfer Function](#lecture-4-laplace-transform-and-transfer-function)          |              SD:   2.2 – 2.3             |
-|                 |        3. Sep. 2, 4       |                  No   Classes (Labor Day)                 |       [Laplace   Transform pairs and Inverse Laplace Transform](#lecture-5-laplace-transform-pairs-and-inverse-laplace-transform)      |      MCE:   2.1, 2.2 & SD: 2.2 – 2.3     |
+|     Modeling    |       1. Aug. 19, 21      | [Course   Overview](#lecture-1-course-overview)           | [Closed-loop Control](#lecture-2-closed-loop-control) |      MCE:   1.1 – 1.5            |
+|                 |       2. Aug. 26, 28      | [Introduction to PID Control and Laplace Transform](#lecture-3-laplace-transform-and-pid-control) | [Laplace Transform and Transfer Function](#lecture-4-laplace-transform-and-transfer-function) | SD:   2.2 – 2.3 |
+|                 |        3. Sep. 2, 4       | No   Classes (Labor Day)                                  | [Laplace   Transform pairs and Inverse Laplace Transform](#lecture-5-laplace-transform-pairs-and-inverse-laplace-transform) | MCE:   2.1, 2.2 & SD: 2.2 – 2.3 |
 |                 |        4. Sep. 9, 11      |                [Mechanical System Modeling](#lecture-6-mechanical-system-modeling)               |       [Electromechanical Systems Modelling](#lecture-7-electromechanical-system-modeling)      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
 |                 |       5. Sep. 16, 18      |         [Project:   MATLAB](#lecture-8-project---introduction-to-matlab)             |      Career Fair      |         MCE:   2.3 & SD: 8.1 – 8.3       |
-|     Analysis    |       6. Sep. 23, 25      |          [Control Block Diagram Signal Flow Graph](#lecture-9-Control-Block-Diagram)        |       Project: Simulink Introduction   |      SD:   8.1 – 8.3 & MCE: 5.1 – 5.8    |
-|                 |     7. Sep. 30, Oct. 2    |                      Midterm   Review                     |               Time-Domain Analysis (1st order system)             |              MCE:   5.1 – 5.8            |
+|     Analysis    |       6. Sep. 23, 25      |          [Control Block Diagram Signal Flow Graph](#lecture-9-Control-Block-Diagram) | [Project: Simulink Introduction](#lecture-10-Project-Simulink-Introduction)   |      SD:   8.1 – 8.3 & MCE: 5.1 – 5.8    |
+|                 |     7. Sep. 30, Oct. 2    |                      Time-Domain Analysis (1st order system)                     |              Midterm   Review              |              MCE:   5.1 – 5.8            |
 |                 |        8. Oct. 7, 9       |             Time-Domin Analysis (2nd order system)           |          Midterm        |              MCE:   5.1 – 5.8            |
 |                 |       9. Oct. 14, 16      |                  Fall Break (no class)                |             Project: Robot Modeling              |        MCE:   7.1 & MCE: 7.2 – 7.6       |
 |                 |       10. Oct. 21, 23     |                   Frequency Domain Analysis Part I | Frequency Domain Analysis Part II        |     MCE:   6.2 – 6.5 & MCE: 7.2 – 7.6    |
@@ -75,7 +75,7 @@ Teaching Assistants
 
 [PDF](https://www.dropbox.com/scl/fi/pgztwc3xocjfo3kt47a77/Lecture-9-Control-Block-Diagram.pdf?rlkey=2g71cvxhhe5u6uyx6jv43119l&dl=0) | [PPT](https://www.dropbox.com/scl/fi/r6hi5xcnmbr5gy23c9mx3/Lecture-9-Control-Block-Diagram.pptx?rlkey=uaegejj5kkn8a6s0ogs58850f&dl=0)
 
-### Lecture 10: Project-Simulink Introduction Part I
+### Lecture 10: Project-Simulink Introduction
 
 [PDF](https://www.dropbox.com/scl/fi/dyx7wue3wimjaro483did/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pdf?rlkey=8psy1fscnms73wd013tnlvoen&dl=0) | [PPT](https://www.dropbox.com/scl/fi/y8j8gzuwirttojt33qqeh/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pptx?rlkey=v2vv4moxoqvqrtiptw17e8nmd&dl=0)
 
