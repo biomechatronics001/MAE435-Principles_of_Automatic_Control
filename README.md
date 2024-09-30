@@ -79,7 +79,7 @@ Teaching Assistants
 
 [PDF](https://www.dropbox.com/scl/fi/5lplr90hi91adnsyiq2hc/Lecture-11-Time-Domain-Analysis-1st-Order-System.pdf?rlkey=x0z0olh0qmzau2mkdhqlyo0pt&dl=0) | [PPT](https://www.dropbox.com/scl/fi/y8j8gzuwirttojt33qqeh/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pptx?rlkey=v2vv4moxoqvqrtiptw17e8nmd&dl=0)
 
-### Lecture 11: Time Domain Analysis 1st Order Systems
+### Lecture 11: Time Domain Analysis - 1st Order Systems
 
 [PDF](https://www.dropbox.com/scl/fi/dyx7wue3wimjaro483did/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pdf?rlkey=8psy1fscnms73wd013tnlvoen&dl=0) | [PPT](https://www.dropbox.com/scl/fi/awyh0vc4chsboz6v4lmvr/Lecture-11-Time-Domain-Analysis-1st-Order-System.pptx?rlkey=i6nto5dp9rlxmic0zi5zjawf6&dl=0)
 
