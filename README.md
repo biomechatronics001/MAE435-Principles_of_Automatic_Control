@@ -26,7 +26,7 @@ Teaching Assistants
 |                 |        4. Sep. 9, 11      |                [Mechanical System Modeling](#lecture-6-mechanical-system-modeling)               |       [Electromechanical Systems Modelling](#lecture-7-electromechanical-system-modeling)      |       MCE:   3.1-3.2 & SD: 6.1-6.6-      |
 |                 |       5. Sep. 16, 18      |         [Project:   MATLAB](#lecture-8-project---introduction-to-matlab)             |      Career Fair      |         MCE:   2.3 & SD: 8.1 – 8.3       |
 |     Analysis    |       6. Sep. 23, 25      |          [Control Block Diagram Signal Flow Graph](#lecture-9-Control-Block-Diagram) | [Project: Simulink Introduction](#lecture-10-Project-Simulink-Introduction)   |      SD:   8.1 – 8.3 & MCE: 5.1 – 5.8    |
-|                 |     7. Sep. 30, Oct. 2    |                      Time-Domain Analysis (1st order system)                     |              Midterm   Review              |              MCE:   5.1 – 5.8            |
+|                 |     7. Sep. 30, Oct. 2    | [Time-Domain Analysis (1st order system)](Lecture-11-Time-Domain-Analysis-1st-Order-Systems) |              Midterm   Review              |              MCE:   5.1 – 5.8            |
 |                 |        8. Oct. 7, 9       |             Time-Domin Analysis (2nd order system)           |          Midterm        |              MCE:   5.1 – 5.8            |
 |                 |       9. Oct. 14, 16      |                  Fall Break (no class)                |             Project: Robot Modeling              |        MCE:   7.1 & MCE: 7.2 – 7.6       |
 |                 |       10. Oct. 21, 23     |                   Frequency Domain Analysis Part I | Frequency Domain Analysis Part II        |     MCE:   6.2 – 6.5 & MCE: 7.2 – 7.6    |
@@ -77,7 +77,11 @@ Teaching Assistants
 
 ### Lecture 10: Project-Simulink Introduction
 
-[PDF](https://www.dropbox.com/scl/fi/dyx7wue3wimjaro483did/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pdf?rlkey=8psy1fscnms73wd013tnlvoen&dl=0) | [PPT](https://www.dropbox.com/scl/fi/y8j8gzuwirttojt33qqeh/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pptx?rlkey=v2vv4moxoqvqrtiptw17e8nmd&dl=0)
+[PDF](https://www.dropbox.com/scl/fi/5lplr90hi91adnsyiq2hc/Lecture-11-Time-Domain-Analysis-1st-Order-System.pdf?rlkey=x0z0olh0qmzau2mkdhqlyo0pt&dl=0) | [PPT](https://www.dropbox.com/scl/fi/y8j8gzuwirttojt33qqeh/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pptx?rlkey=v2vv4moxoqvqrtiptw17e8nmd&dl=0)
+
+### Lecture 11: Time Domain Analysis -1st Order Systems
+
+[PDF](https://www.dropbox.com/scl/fi/dyx7wue3wimjaro483did/Lecture-10-Project-Simulink-Introduction-Part-I-Sainan-is-working-on-it.pdf?rlkey=8psy1fscnms73wd013tnlvoen&dl=0) | [PPT](https://www.dropbox.com/scl/fi/awyh0vc4chsboz6v4lmvr/Lecture-11-Time-Domain-Analysis-1st-Order-System.pptx?rlkey=i6nto5dp9rlxmic0zi5zjawf6&dl=0)
 
 <br>
 
