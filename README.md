@@ -28,7 +28,7 @@ Teaching Assistants
 |     Analysis    |       6. Sep. 23, 25      | [Control Block Diagram Signal Flow Graph](#lecture-9-Control-Block-Diagram) | [Project: Simulink Introduction](#lecture-10-Project-Simulink-Introduction)   |      SD:   8.1 – 8.3 & MCE: 5.1 – 5.8    |
 |                 |     7. Sep. 30, Oct. 2    | [Time-Domain Analysis (1st order system)](#Lecture-11-Time-Domain-Analysis---1st-Order-Systems) | [Midterm Review](#Lecture-12-Midterm-Review) | MCE:   5.1 – 5.8 |
 |                 |        8. Oct. 7, 9       |             [Time-Domin Analysis (2nd order system)](#lecture-13-time-domain-analysis-2nd-order-system)           |          Midterm        |              MCE:   5.1 – 5.8            |
-|                 |       9. Oct. 14, 16      |                  Fall Break (no class)                |             Project: Robot Modeling              |        MCE:   7.1 & MCE: 7.2 – 7.6       |
+|                 |       9. Oct. 14, 16      |                  Fall Break (no class)                |             [DC Motor Modeling, PID Control and Simulink Implementation](#lecture-14-dc-motor-modeling-pid-control-and-simulink-implementation)              |        MCE:   7.1 & MCE: 7.2 – 7.6       |
 |                 |       10. Oct. 21, 23     |                   Frequency Domain Analysis Part I | Frequency Domain Analysis Part II        |     MCE:   6.2 – 6.5 & MCE: 7.2 – 7.6    |
 |                 |       11. Oct. 28, 30     |            Midterm Recap and Stability Analysis          |          Bode Diagram Concept        |              MCE:   7.7 -7. 8            |
 |          |        12. Nov. 4, 6      |             Bode   Diagram: Gain and Phase Margin            |              Bode Diagram: Stability Criterion            |             MCE:   7.11 – 7.13           |
@@ -90,6 +90,10 @@ Teaching Assistants
 ### Lecture 13: Time Domain Analysis (2nd Order System)
 
 [PDF](https://www.dropbox.com/scl/fi/34u3cq3oxhds59poeay5w/Lecture-13-Time-Domain-Analysis-2nd-Order-System.pdf?rlkey=d77qx3s4wi4jm0alyj9kpqa3l&dl=0) | [PPT](https://https://www.dropbox.com/scl/fi/oxbyfnpx5lbm5ywh7v5it/Lecture-13-Time-Domain-Analysis-2nd-Order-System.pptx?rlkey=rtkl03yj9i7xffdoua8a9yioi&dl=0)
+
+### Lecture 14: DC Motor Modeling, PID Control and Simulink Implementation
+
+[PDF](https://www.dropbox.com/scl/fi/ulwll16ax2qwfgy4y1nt9/Lecture-14-Project-DC-Motor-Modeling-PID-Control-and-Simulink-Implementation.pdf?rlkey=t15yk7x3lw4jme1vl3gv4jsbp&dl=0) | [PPT](https://www.dropbox.com/scl/fi/s7tekqva7ctpc1yo282gq/Lecture-14-Project-DC-Motor-Modeling-PID-Control-and-Simulink-Implementation.pptx?rlkey=v34wtk5wbjw18a3fqt1t0xg5w&dl=0)
 
 
 <br>
