@@ -29,7 +29,7 @@ Teaching Assistants
 |                 |     7. Sep. 30, Oct. 2    | [Time-Domain Analysis (1st order system)](#Lecture-11-Time-Domain-Analysis---1st-Order-Systems) | [Midterm Review](#Lecture-12-Midterm-Review) | MCE:   5.1 – 5.8 |
 |                 |        8. Oct. 7, 9       |             [Time-Domin Analysis (2nd order system)](#lecture-13-time-domain-analysis-2nd-order-system)           |          Midterm        |              MCE:   5.1 – 5.8            |
 |                 |       9. Oct. 14, 16      |                  Fall Break (no class)                |             [DC Motor Modeling, PID Control and Simulink Implementation](#lecture-14-dc-motor-modeling-pid-control-and-simulink-implementation)              |        MCE:   7.1 & MCE: 7.2 – 7.6       |
-|                 |       10. Oct. 21, 23     |                   Frequency Domain Analysis Part I | Frequency Domain Analysis Part II        |     MCE:   6.2 – 6.5 & MCE: 7.2 – 7.6    |
+|                 |       10. Oct. 21, 23     |                   [Frequency Domain Analysis Part I](#lecture-15-frequency-domain-analysis-part-i---introduction) | Frequency Domain Analysis Part II        |     MCE:   6.2 – 6.5 & MCE: 7.2 – 7.6    |
 |                 |       11. Oct. 28, 30     |            Midterm Recap and Stability Analysis          |          Bode Diagram Concept        |              MCE:   7.7 -7. 8            |
 |          |        12. Nov. 4, 6      |             Bode   Diagram: Gain and Phase Margin            |              Bode Diagram: Stability Criterion            |             MCE:   7.11 – 7.13           |
 |                 |       13. Nov. 11, 13     |      Project:   Bode Diagram: Design and Control    |              Project: Robot System Simulation Implementation             |             MCE:   7.11 – 7.13           |
@@ -94,6 +94,10 @@ Teaching Assistants
 ### Lecture 14: DC Motor Modeling, PID Control and Simulink Implementation
 
 [PDF](https://www.dropbox.com/scl/fi/ulwll16ax2qwfgy4y1nt9/Lecture-14-Project-DC-Motor-Modeling-PID-Control-and-Simulink-Implementation.pdf?rlkey=t15yk7x3lw4jme1vl3gv4jsbp&dl=0) | [PPT](https://www.dropbox.com/scl/fi/s7tekqva7ctpc1yo282gq/Lecture-14-Project-DC-Motor-Modeling-PID-Control-and-Simulink-Implementation.pptx?rlkey=v34wtk5wbjw18a3fqt1t0xg5w&dl=0)
+
+### Lecture 15: Frequency Domain Analysis Part I - Introduction
+
+[PDF](https://www.dropbox.com/scl/fi/jkvnisytiej1wzlvev5lx/Lecture-15-Frequency-Domain-Analysis-Part-I-Introduction.pdf?rlkey=3v78o8bv8imgiol2da3hpir80&dl=0) | [PPT](https://www.dropbox.com/scl/fi/oi22wm6zmaljeaz4l6g07/Lecture-15-Frequency-Domain-Analysis-Part-I-Introduction.pptx?rlkey=1ak0ud2m9ulbix6p6r6gefnr8&dl=0)
 
 
 <br>
