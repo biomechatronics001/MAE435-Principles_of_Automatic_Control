@@ -30,8 +30,8 @@ Teaching Assistants
 |                 |        8. Oct. 7, 9       |             [Time-Domin Analysis (2nd order system)](#lecture-13-time-domain-analysis-2nd-order-system)           |          Midterm        |              MCE:   5.1 – 5.8            |
 |                 |       9. Oct. 14, 16      |                  Fall Break (no class)                |             [DC Motor Modeling, PID Control and Simulink Implementation](#lecture-14-dc-motor-modeling-pid-control-and-simulink-implementation)              |        MCE:   7.1 & MCE: 7.2 – 7.6       |
 |                 |       10. Oct. 21, 23     |                   [Frequency Domain Analysis Part I](#lecture-15-frequency-domain-analysis-part-i---introduction) | [Frequency Domain Analysis Part II](#lecture-16-frequency-domain-analysis-part-ii-bode-plot-overview)        |     MCE:   6.2 – 6.5 & MCE: 7.2 – 7.6    |
-|                 |       11. Oct. 28, 30     |            Midterm Recap and Stability Analysis          |          [Bode Diagram Concept](#lecture-17---frequency-domain-analysis-part-iii-bode-plot-simple-model)        |              MCE:   7.7 -7. 8            |
-|          |        12. Nov. 4, 6      |             Bode   Diagram: Gain and Phase Margin            |              Bode Diagram: Stability Criterion            |             MCE:   7.11 – 7.13           |
+|                 |       11. Oct. 28, 30     |            [Midterm Review](#lecture-18---midterm-exam-question-review)          |          [Bode Diagram Concept](#lecture-17---frequency-domain-analysis-part-iii-bode-plot-simple-model)        |              MCE:   7.7 -7. 8            |
+|          |        12. Nov. 4, 6      |             [Project - Simulation and Control of Robotic Exoskeleton](#lecture-19---project---simulation-and-control-of-robotic-exoskeleton)            |              Bode Diagram: Stability Criterion            |             MCE:   7.11 – 7.13           |
 |                 |       13. Nov. 11, 13     |      Project:   Bode Diagram: Design and Control    |              Project: Robot System Simulation Implementation             |             MCE:   7.11 – 7.13           |
 |     Control            |       14. Nov. 18, 20     |               Lead Compensation Control             |                  Lag Compensation Control                |                     -                    |
 |                 |       15. Nov. 25, 27     |                Project:   Control of Robot              |            No   Classes (Thanksgiving Day)          |                     -                    |
@@ -106,6 +106,18 @@ Teaching Assistants
 ### Lecture 17 - Frequency Domain Analysis Part III Bode Plot Simple Model
 
 [PDF](https://www.dropbox.com/scl/fi/lcu55cubnlzyjphcz44vv/Lecture-17-Frequency-Domain-Analysis-Part-III-Bode-Plot-Simple-Model.pdf?rlkey=akt20vtmsx590az52600ohdv3&dl=0) | [PPT](https://www.dropbox.com/scl/fi/y4l5mfqhyqf8as876ca6a/Lecture-17-Frequency-Domain-Analysis-Part-III-Bode-Plot-Simple-Model.pptx?rlkey=ua5a2qj0t8c1zntdpu27si1jn&dl=0)
+
+### Lecture 18 - Midterm Exam Question Review
+
+[PDF](https://www.dropbox.com/scl/fi/ksbyr1lvliu0wcq46uy89/Lecture-18-Midterm-Exam-Question-Review.pdf?rlkey=9n7v7uypo5ka3wgezfcbni3hw&dl=0) | [PPT](https://www.dropbox.com/scl/fi/trirxdh1jz1ys4eogbl1b/Lecture-18-Midterm-Exam-Question-Review.pptx?rlkey=erwhvyjx09i0janwcnn4560nb&dl=0)
+
+### Lecture 19 - Project - Simulation and Control of Robotic Exoskeleton
+
+[PDF](https://www.dropbox.com/scl/fi/5u4yq4k66wl1jeub3575c/Lecture-19-Project-Simulation-and-Control-of-Robotic-Exoskeleton.pdf?rlkey=9sgsb8703vz7k0iqm6tn8x6z6&dl=0) | [PPT](https://www.dropbox.com/scl/fi/897n50hb6q50fkssp3uvl/Lecture-19-Project-Simulation-and-Control-of-Robotic-Exoskeleton.pptx?rlkey=c654xpv5jvbpgdav72jeqxwul&dl=0)
+
+DC motor bandwidth code: [Link](https://www.dropbox.com/scl/fo/5mm4n42a4uonj1l0loj4c/AD-JQQVkD2RUW1j9Nws20_8?rlkey=qyn7jqd8wezghf0wpwmz7fe5i&dl=0)
+Hip Exoskeleton Bandwidth code: [Link](https://www.dropbox.com/scl/fo/21d5n94tnfo1c8ki11bex/AFLmkKX1dQys3TqJInazmxo?rlkey=8w9en2wb32pakghdjzyfaqz84&dl=0)
+
 
 <br>
 
