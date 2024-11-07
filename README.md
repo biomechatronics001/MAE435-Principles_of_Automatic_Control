@@ -31,7 +31,7 @@ Teaching Assistants
 |                 |       9. Oct. 14, 16      |                  Fall Break (no class)                |             [DC Motor Modeling, PID Control and Simulink Implementation](#lecture-14-dc-motor-modeling-pid-control-and-simulink-implementation)              |        MCE:   7.1 & MCE: 7.2 – 7.6       |
 |                 |       10. Oct. 21, 23     |                   [Frequency Domain Analysis Part I](#lecture-15-frequency-domain-analysis-part-i---introduction) | [Frequency Domain Analysis Part II](#lecture-16-frequency-domain-analysis-part-ii-bode-plot-overview)        |     MCE:   6.2 – 6.5 & MCE: 7.2 – 7.6    |
 |                 |       11. Oct. 28, 30     |            [Midterm Review](#lecture-18---midterm-exam-question-review)          |          [Bode Diagram Concept](#lecture-17---frequency-domain-analysis-part-iii-bode-plot-simple-model)        |              MCE:   7.7 -7. 8            |
-|          |        12. Nov. 4, 6      |             [Project - Simulation and Control of Robotic Exoskeleton](#lecture-19---project---simulation-and-control-of-robotic-exoskeleton)            |              Bode Diagram: Stability Criterion            |             MCE:   7.11 – 7.13           |
+|          |        12. Nov. 4, 6      |             [Project - Simulation and Control of Robotic Exoskeleton](#lecture-19---project---simulation-and-control-of-robotic-exoskeleton)            |              [Frequency Domain Analysis Part IV Bode Plot Complex System](#lecture-20---frequency-domain-analysis-part-iv-bode-plot-complex-system)            |             MCE:   7.11 – 7.13           |
 |                 |       13. Nov. 11, 13     |      Project:   Bode Diagram: Design and Control    |              Project: Robot System Simulation Implementation             |             MCE:   7.11 – 7.13           |
 |     Control            |       14. Nov. 18, 20     |               Lead Compensation Control             |                  Lag Compensation Control                |                     -                    |
 |                 |       15. Nov. 25, 27     |                Project:   Control of Robot              |            No   Classes (Thanksgiving Day)          |                     -                    |
@@ -118,6 +118,11 @@ Teaching Assistants
 DC motor bandwidth code: [Link](https://www.dropbox.com/scl/fo/5mm4n42a4uonj1l0loj4c/AD-JQQVkD2RUW1j9Nws20_8?rlkey=qyn7jqd8wezghf0wpwmz7fe5i&dl=0)
 
 Hip Exoskeleton Bandwidth code: [Link](https://www.dropbox.com/scl/fo/21d5n94tnfo1c8ki11bex/AFLmkKX1dQys3TqJInazmxo?rlkey=8w9en2wb32pakghdjzyfaqz84&dl=0)
+
+
+### Lecture 20 - Frequency Domain Analysis Part IV Bode Plot Complex System
+
+[PDF](https://www.dropbox.com/scl/fi/whjd9cc32qdu62k60c8ns/Lecture-20-Frequency-Domain-Analysis-Part-IV-Bode-Plot-Complex-System.pdf?rlkey=5tahtuca23nd14bu98s38brna&dl=0) | [PPT](https://www.dropbox.com/scl/fi/jaka603vr38vurvjodoc1/Lecture-20-Frequency-Domain-Analysis-Part-IV-Bode-Plot-Complex-System.pptx?rlkey=93iqr98jsryjmb06i5o2imgio&dl=0)
 
 
 <br>
