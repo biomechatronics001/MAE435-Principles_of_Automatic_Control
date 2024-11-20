@@ -33,9 +33,9 @@ Teaching Assistants
 |                 |       11. Oct. 28, 30     |            [Midterm Review](#lecture-18---midterm-exam-question-review)          |          [Bode Diagram Concept](#lecture-17---frequency-domain-analysis-part-iii-bode-plot-simple-model)        |              MCE:   7.7 -7. 8            |
 |          |        12. Nov. 4, 6      |             [Project - Simulation and Control of Robotic Exoskeleton](#lecture-19---project---simulation-and-control-of-robotic-exoskeleton)            |              [Frequency Domain Analysis Part IV Bode Plot Complex System](#lecture-20---frequency-domain-analysis-part-iv-bode-plot-complex-system)            |             MCE:   7.11 – 7.13           |
 |                 |       13. Nov. 11, 13     |      [Gain Margin and Phase Margin](#lecture-21---gain-margin-and-phase-margin)    |              [Frequency Domain Analysis and Control of Second-Order Systems](#lecture-22--frequency-domain-analysis-and-control-of-second-order-systems)             |             MCE:   7.11 – 7.13           |
-|     Control            |       14. Nov. 18, 20     |               [Lead Compensation Control - Part 1](#lecture-23---lead-compensation-control---part-1)             |                  Lag Compensation Control                |                     -                    |
-|                 |       15. Nov. 25, 27     |                Project:   Control of Robot              |            No   Classes (Thanksgiving Day)          |                     -                    |
-|                 |         16. Dec. 2 , 4      |     Final exam Review    |                                                     |                     -                    |
+|     Control            |       14. Nov. 18, 20     |               [Lead Compensation Control - Part I](#lecture-23---lead-compensation-control---part-1)             |                 [Lead Compensation Control - Part II](#lecture-24---lead-compensation-control---part-2)                 |                     -                    |
+|                 |       15. Nov. 25, 27     |                [Final Exam Review - Part 1](#lecture-25---final-exam-review---part-1)              |            No   Classes (Thanksgiving Day)          |                     -                    |
+|                 |         16. Dec. 2 , 4      |     [Final exam Review - Part II](#lecture-26---final-exam-review---part-2)    |                                                     |                     -                    |
 |                 |         17. Dec. 9, 11       |                                               |                   Final Exam                                  |                     -                    |
 
 ## Lecture Slides
@@ -135,6 +135,18 @@ Hip Exoskeleton Bandwidth code: [Link](https://www.dropbox.com/scl/fo/21d5n94tnf
 ### Lecture 23 - Lead Compensation Control - Part 1
 
 [PDF](https://www.dropbox.com/scl/fi/j4vtjo9t4zha1w9krn1ca/Lecture-23-Lead-Compensation-Control-part-1.pdf?rlkey=sed279f2996klp5orkas1d4tu&dl=0) | [PPT](https://www.dropbox.com/scl/fi/n1lbtk68m15c5734mgql4/Lecture-23-Lead-Compensation-Control-part-1.pptx?rlkey=tji3b7rbr5fosm9dofwq6tyaz&dl=0)
+
+### Lecture 24 - Lead Compensation Control - Part 2
+
+[PDF](https://www.dropbox.com/scl/fi/dhx5f9izsk31jskkdgfk4/Lecture-24-Lead-Compensation-Control-part-2.pdf?rlkey=kqlmk2nm1lrwei6090jaoqyws&dl=0) | [PPT](https://www.dropbox.com/scl/fi/5iy5j87fp7b2o154qmny1/Lecture-24-Lead-Compensation-Control-part-2.pptx?rlkey=nb420lbr5gry03lzfggw1h2av&dl=0)
+
+### Lecture 25 - Final Exam Review - Part 1
+
+[PDF](https://www.dropbox.com/scl/fi/w6t9ija8iy8afksqbut2m/Lecture-25-Final-Exam-Review-part-1.pdf?rlkey=zn8tfr9ru1bsthzoivqe5p8xs&dl=0) | [PPT](https://www.dropbox.com/scl/fi/rzhqixr6tp4bt8ywyqakg/Lecture-25-Final-Exam-Review-part-1.pptx?rlkey=1m91ag4w2osocb0iatv6v5luj&dl=0)
+
+### Lecture 26 - Final Exam Review - Part 2
+
+[PDF](https://www.dropbox.com/scl/fi/7of6fimqyug73ykc4he6v/Lecture-26-Final-Exam-Review-part-2.pdf?rlkey=zfgw324g0e7pqu88g8n2bwcnr&dl=0) | [PPT](https://www.dropbox.com/scl/fi/ka1kodiprt6i9fmlm6lcw/Lecture-26-Final-Exam-Review-part-2.pptx?rlkey=5ycxz0hvh5hd4a7yht4jpucui&dl=0)
 
 
 <br>
